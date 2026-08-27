@@ -1,0 +1,11 @@
+body
+{
+    background-image: linear-gradient(to right,purple,blue,darkblue);
+    color:white;
+    align-items: center;
+    justify-content: center;
+    margin:0;
+    padding:0;
+    height:100vh;
+    display: flex;
+}
